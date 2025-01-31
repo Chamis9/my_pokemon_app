@@ -12,7 +12,7 @@ To install the project, follow these steps:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/my_pokemon_app
+   git clone https://github.com/Chamis9/my_pokemon_app.git
    ```
 2. Navigate to the project directory:
    ```sh
@@ -31,7 +31,7 @@ npm run dev
 This will start the development server and open the Pokemon app in your default web browser.
 
 ## Hosted Version
-You can access the hosted version of the Pokemon app [here](https://your-hosted-version-url).
+You can access the hosted version of the Pokemon app [here](https://delightful-begonia-707212.netlify.app/).
 
 ### The Core Team
 
